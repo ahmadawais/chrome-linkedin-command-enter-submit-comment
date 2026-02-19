@@ -2,11 +2,11 @@
 
 # LinkedIn `Cmd+Enter` → Submit Comment
 
-> A Chrome extension for people who have **absolutely zero milliseconds** to spare on moving a finger to the trackpad.
+> A Chrome extension for people who have **absolutely zero milliseconds** to spare on moving a finger to the trackpad and want to submit LinkedIn comments with a keyboard shortcut instead (`Cmd+Enter` on Mac, `Ctrl+Enter` on Windows/Linux).
 
----
+### but why?!
 
-Look. I get it. You're a busy person. You've got things to do, places to be, thoughts to share on LinkedIn. You type out a beautifully crafted comment — something witty, something insightful, maybe even something that'll get you 47 reactions and a connection request from a VP you've never met.
+Look. I get it. You're a busy person. You've got things to do, places to be, thoughts to share on LinkedIn. You type out a beautifully crafted comment, something witty, something insightful, maybe even something that'll get you 47 reactions and a connection request from a VP you've never met.
 
 And then.
 
@@ -19,8 +19,6 @@ Drag it allllll the way over to that little blue "Post" button.
 The audacity. The sheer, unmitigated **waste of human potential**. Scientists estimate that the average knowledge worker loses up to 0.8 seconds per LinkedIn comment click. That's 0.8 seconds you could've spent... typing the next LinkedIn comment.
 
 **This ends today.**
-
----
 
 ## What It Does
 
