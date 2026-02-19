@@ -26,7 +26,6 @@ Lets you hit `Cmd+Enter` (Mac) or `Ctrl+Enter` (Win/Linux) to submit a LinkedIn 
 
 That's it. That's the whole thing. You're welcome.
 
----
 
 ## Install
 
@@ -36,7 +35,6 @@ That's it. That's the whole thing. You're welcome.
 4. Click **Load unpacked** → select this folder
 5. Go to LinkedIn. Type a comment. Hit `Cmd+Enter`. Feel the freedom.
 
----
 
 ## How It Works
 
@@ -44,7 +42,6 @@ A tiny content script listens for `Cmd+Enter` / `Ctrl+Enter` while you're in a L
 
 No background scripts. No network calls. No data collection. No AI. No blockchain. No synergy. Just a keyboard shortcut doing exactly one job.
 
----
 
 ## Why Does This Exist
 
@@ -63,7 +60,6 @@ And thus, 20 minutes of extension writing saved an estimated 0.8 seconds per com
 - Manifest V3 (the modern, responsible kind)
 - Your sanity: ✅ Preserved
 
----
 
 <br>
 
