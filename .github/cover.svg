@@ -10,7 +10,7 @@
     </linearGradient>
     <!-- CMD key: SoP purple -->
     <linearGradient id="cmdGrad" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" style="stop-color:#4D21FC;stop-opacity:1" />
+      <stop offset="0%" style="stop-color:#2e2c5a;stop-opacity:1" />
       <stop offset="100%" style="stop-color:#2D2B55;stop-opacity:1" />
     </linearGradient>
     <!-- ENTER key: LinkedIn blue -->
@@ -20,9 +20,9 @@
     </linearGradient>
     <!-- Title gradient: purple → LinkedIn blue -->
     <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#B362FF;stop-opacity:1" />
+      <stop offset="0%" style="stop-color:#FFF;stop-opacity:1" />
       <stop offset="50%" style="stop-color:#A599E9;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#00A0DC;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#FFF;stop-opacity:1" />
     </linearGradient>
     <filter id="cmdGlow">
       <feGaussianBlur stdDeviation="8" result="coloredBlur"/>
@@ -37,7 +37,7 @@
       <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
     <filter id="cmdShadow">
-      <feDropShadow dx="0" dy="0" stdDeviation="12" flood-color="#4D21FC" flood-opacity="0.9"/>
+      <feDropShadow dx="0" dy="0" stdDeviation="12" flood-color="#2e2c5a" flood-opacity="0.9"/>
     </filter>
     <filter id="enterShadow">
       <feDropShadow dx="0" dy="0" stdDeviation="14" flood-color="#0077B5" flood-opacity="0.9"/>
@@ -70,7 +70,7 @@
   </g>
 
   <!-- Ambient glows: purple left (CMD), blue right (Enter) -->
-  <ellipse cx="266" cy="575" rx="110" ry="40" fill="#4D21FC" opacity="0.28"/>
+  <ellipse cx="266" cy="575" rx="110" ry="40" fill="#2e2c5a" opacity="0.28"/>
   <ellipse cx="990" cy="432" rx="120" ry="42" fill="#0077B5" opacity="0.28"/>
   <!-- Subtle center bloom -->
   <ellipse cx="640" cy="420" rx="460" ry="110" fill="#1E1E3F" opacity="0.12"/>
@@ -217,13 +217,13 @@
   <text x="895" y="573" font-family="'SF Mono','Fira Code',monospace" font-size="10" fill="#2e2c5a" text-anchor="middle">CTRL</text>
 
   <!-- CMD right — SoP purple -->
-  <rect x="932" y="550" width="96" height="36" rx="6" fill="url(#cmdGrad)" stroke="#4D21FC" stroke-width="2" filter="url(#cmdShadow)"/>
+  <rect x="932" y="550" width="96" height="36" rx="6" fill="url(#cmdGrad)" stroke="#2e2c5a" stroke-width="2" filter="url(#cmdShadow)"/>
   <text x="980" y="574" font-family="'SF Mono','Fira Code',monospace" font-size="16" fill="#FAD000" text-anchor="middle" font-weight="bold">⌘</text>
 
   <!-- === CONNECTOR: purple → blue arc from CMD to ENTER === -->
   <defs>
     <linearGradient id="arcGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#4D21FC;stop-opacity:0.7"/>
+      <stop offset="0%" style="stop-color:#2e2c5a;stop-opacity:0.7"/>
       <stop offset="100%" style="stop-color:#0077B5;stop-opacity:0.7"/>
     </linearGradient>
   </defs>
