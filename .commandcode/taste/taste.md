@@ -1,4 +1,10 @@
-# Taste (Continuously Learned by CommandCode.ai)
+# Taste (Continuously Learned by [CommandCode][cmd])
+
+[cmd]: https://commandcode.ai/
+
+# communication
+- Use ASCII text diagrams to summarize changes instead of wordy prose explanations. Confidence: 0.80
+- Keep explanations concise and less wordy. Confidence: 0.80
 
 # design
 - For cover/visual assets, use the "Shades of Purple" color palette: Background #2D2B55, Dark Background #1E1E3F, Foreground #A599E9, Highlight #FF7200, Keywords #FF9D00, Strings #A5FF90, Constants #FF628C, Comments #B362FF, Definitions #FB94FF, Contrast #FAD000. Confidence: 0.80
